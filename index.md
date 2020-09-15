@@ -7,5 +7,7 @@
 
 ## 以下是各种实验
 
->1z11
+1.用“::”看看emoji
+
+:pizza: :apple: :man: :horse:
 
