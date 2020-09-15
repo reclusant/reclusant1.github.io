@@ -12,3 +12,8 @@
 
 :pizza: :apple: :man: :horse:
 
+2.用git desktop编辑  
+
+
+
+
