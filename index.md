@@ -78,7 +78,7 @@ int main(){
 
 ` ![这是Alt标签](/image.png "这是标题文字") `
 
-![我尝试在这里输入长一点的字符串](https://raw.githubusercontent.com/reclusant/reclusant.github.io/master/image.jpg"这是注册时的头像")
+![如果你看到这行字，说明我裂开了](https://raw.githubusercontent.com/reclusant/reclusant.github.io/master/image.jpg"这是注册时的头像")
 
 
 
