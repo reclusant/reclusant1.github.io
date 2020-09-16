@@ -65,26 +65,35 @@ int main(){
 
 ###### 任务列表 `[x]`	比如
 
-- [ ] 这是任务1
+- [x] 这是任务1
 
-- [x] \(尝试规避)这是任务2
+- [ ] \(尝试规避)这是任务2
 
 注:列表声明用`()`开头的话用 `\` 规避;
 
 ​	实际上Markdown都可以用`\`规避格式
 
-###### 图片
-
-![avatar](/image.png)
-
 ###### 表	`----` & ` | `	比如
 
 ```
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+|	title	|	title	|
 ```
+
+| title   | title    |
+| ------- | -------- |
+| 1111111 | 22222222 |
+
+###### 图片
+
+` ![这是Alt标签](/image.png "这是标题文字") `
+
+![Alt](D:\file(\reclusant.github.io\image.jpg"title")
+
+
+
+
+
+
 
 
 
