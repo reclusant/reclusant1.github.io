@@ -53,9 +53,7 @@ int main(){
 
 
 
-[![不要裂开](image/完全明白の早苗.png)
-
-](https://www.zhihu.com/people/rvzizai-na-bian）
+[![不要裂开](image/完全明白の早苗.png)](https://www.zhihu.com/people/rvzizai-na-bian）
 
 ###### 任务列表 ` - [x] `	比如
 
