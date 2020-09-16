@@ -43,12 +43,14 @@
 ###### 引用	>			
 
 > ​	这是引用
+>
+> ​	这也是引用
 
 ###### 引用代码（防格式化)	``
 
 ​	`**这是引用代码**`
 
-###### 代码块	` ``` code ``` `
+###### 代码块	`  ``` code ```  `
 
 ```c++
 int main(){
@@ -63,9 +65,9 @@ int main(){
 
 ###### 任务列表 `[x]`	比如
 
-- [ ]这是任务1
+- [ ] 这是任务1
 
-- [x]\(尝试规避)这是任务2
+- [x] \(尝试规避)这是任务2
 
 注:列表声明用`()`开头的话用 `\` 规避;
 
@@ -73,23 +75,18 @@ int main(){
 
 ###### 图片
 
-```
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-```
+![avatar](/image.png)
 
-###### 内联代码
+###### 表	`----` & ` | `	比如
 
 ```
-I think you should use an
-`<addr>` element here instead.
-```
-
-###### 表	`----` & ` |`	比如
-
-```
-标题1			| 	标题2
---------   	 | 	---------
+First Header | Second Header
+------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ```
+
+
+
+
+
