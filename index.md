@@ -49,6 +49,14 @@ int main(){
 
 ​	[我的b站主页](https://space.bilibili.com/12219245)
 
+
+
+
+
+[![不要裂开](image/完全明白の早苗.png)
+
+](https://www.zhihu.com/people/rvzizai-na-bian）
+
 ###### 任务列表 ` - [x] `	比如
 
 - [x] 这是任务1
@@ -87,9 +95,5 @@ int main(){
 
 我再尝试一下连接到别的网址：
 
-[我的MD学习记录](reclusant.github.io/MDlearning/)
-
-
-
-
+[我的MD学习记录](reclusant.github.io/MDlearning/)`(目前是失败的)`
 
