@@ -10,10 +10,6 @@
 
 
 
-
-
-
-
 ## 以下是学习记录
 
 ***一些格式的记录***	**实际上就是md学习啊 XD**
@@ -78,13 +74,20 @@ int main(){
 
 ` ![这是Alt标签](/image.png "这是标题文字") `
 
-![如果你看到这行字，说明我裂开了](https://raw.githubusercontent.com/reclusant/reclusant.github.io/master/image.jpg)
+![如果你看到这行字，说明我裂开了](image/head1.jpg "这是我注册时的头像")
 
 
 
+之后如果还有什么要弄的再说吧XD
+
+- [x] 在图片中添加链接
+- [ ] 背景排版等
 
 
 
+我再尝试一下连接到别的网址：
+
+[我的MD学习记录](reclusant.github.io/MDlearning/)
 
 
 
