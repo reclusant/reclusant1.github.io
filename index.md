@@ -47,13 +47,13 @@ int main(){
 
 ######  链接	`[填写链接文本](URL)`	比如
 
-​	[我的b站主页](https://space.bilibili.com/12219245)
+​	[   我的b站主页   ](https://space.bilibili.com/12219245)
 
 
 
 
 
-[![不要裂开](image/完全明白の早苗.png)](https://www.zhihu.com/people/rvzizai-na-bian）
+[  ![不要裂开](image/完全明白の早苗.png)  ] (https://www.zhihu.com/people/rvzizai-na-bian）
 
 ###### 任务列表 ` - [x] `	比如
 
